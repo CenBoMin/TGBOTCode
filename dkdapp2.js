@@ -1,1 +1,1 @@
-afafadfad,submitactivitycodes dkdapp2@13192689
+[{"uid":"1285467394","code":["12124346","13192689"]}]
